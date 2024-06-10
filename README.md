@@ -1,4 +1,5 @@
-  College Management System
+College Management System
+
 Welcome to the College Management System project! This is a simple Python application that helps manage student details in a college setting using a MySQL database.
 
 Features
